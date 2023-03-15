@@ -1,6 +1,7 @@
 # Начало работы с javascript
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/images.png)
+
 
 
 #### Области применения JavaScript
@@ -12,11 +13,13 @@
 
 
 #### РОЛЬ JAVASCRIPT В ВЕБ-РАЗРАБОТКЕ
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/7b3afde842ecf43aa0db3aa984cbca52.jpg)
 _JavaScript – это язык программирования, который добавляет интерактивность на ваш веб-сайт (например: игры, отклик при нажатии кнопок или при вводе данных в формы, динамические стили, анимация)._
+[![N|Solid](/img/3.jpeg)
+
 
 #### Выпуск JAVASCRIPT
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/1_ZDDiwaLD0lRSL7Ad9W_SLQ.png)
 ECMAScript — это встраиваемый расширяемый не имеющий средств ввода-вывода язык программирования, используемый в качестве основы для построения других скриптовых языков. Стандартизирован международной организацией ECMA в спецификации ECMA-262.
 
 ##### ECMAScript
@@ -36,10 +39,12 @@ ECMAScript — это встраиваемый расширяемый не им�
 - Использование вкладки консоли веб-браузеров
 - Использование Node.js
 - Создавая веб-страницы
+[![N|Solid](/img/chrome.png)
+
 
 
 ## Переменные и константы JavaScript
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/let.png)
 #### var
 > var — используется в более старой версии JS 
 var — это область действия функции (будет обсуждаться в последующих руководствах)
@@ -82,24 +87,26 @@ let age = 30;
 let 1simpleText = 'Javascript действительно прост';
 console.log(1simpleText);
 ### Операторы В JavaScript
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/002.jpg)
 ##### Арифметические операторы JavaScript
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/388848_213_i_151.png)
 ##### ЛОГИЧЕСКИЕ ОПЕРАТОРЫ: И(&&), ИЛИ( | | ), НЕ(!)
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/mqdefault.jpg)
 ##### Операторы сравнения
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/javascriptcomparisonoperatorsimage041.jpg)
+
+
 
 
 # TABLE OF CONTENTS
 
+
 ## 01 CONDITIONS
 ### CONDITION If/else statement
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 ### CONDITION Ternary operator
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/cae9e76d9b34f39c07a238665607d0f6.png)
 ### CONDITION Switch statment
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](/img/1564111326.png)
 
 > Оператор switch используется для выполнения
 различные действия, основанные на различных
@@ -124,8 +131,7 @@ _ Anonymous function (aнонимная функция)
 > 3 Immediately invoced Function Expression (IIFE)
 
 ### FUNCTION REVIEW: ANATOMY of a function
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
+[![N|Solid](/img/RH5Gl.png)
 #### FUNCTION Declaration
 > Объявление функции определяет
 функция с указанным
